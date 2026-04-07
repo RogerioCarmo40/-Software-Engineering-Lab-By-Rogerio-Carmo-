@@ -165,5 +165,7 @@ Como parte do aprendizado prático, desenvolvi um script Python (Tkinter) que ge
 ## 👤 Autor
 **ROGERIO CARMO**
 *Consultor e Desenvolvedor "One-Man Team"*
+
 *Back-end Developer -->> Full Stack Developer...*
+
 [[[Seu LinkedIn]](https://www.linkedin.com/in/rogeriocarmo40/)]| [Seu Portfólio]
