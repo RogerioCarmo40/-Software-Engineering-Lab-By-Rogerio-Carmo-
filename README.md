@@ -158,11 +158,6 @@ Como parte do aprendizado prático, desenvolvi um script Python (Tkinter) que ge
 * Geração de log automático em `.txt` com métricas de horas, minutos e "páginas" produzidas.
 * Interface com ponteiros analógicos para foco visual.
 
-<p align="center">
-  
-  <img src="" alt="Diagrama do Triângulo de Ferro" width="500">
-</p>
-
 ![3d-rendering-triangle](https://github.com/user-attachments/assets/044f63a6-0116-424b-b296-7b6ebf57ba8d)
 
 ---
