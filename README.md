@@ -179,6 +179,12 @@ Como parte do aprendizado prático, desenvolvi um script Python (Tkinter) que ge
 * Geração de log automático em `.txt` com métricas de horas, minutos e "páginas" produzidas.
 * Interface com ponteiros analógicos para foco visual.
 
+## 🛠️ Como Executar o Timer
+1. Certifique-se de ter o **Python 3.x** instalado.
+2. Clone o repositório ou baixe o arquivo `timer_Ciclos.py`.
+3. No terminal, execute: `python timer_Ciclos.py`.
+4. Defina o intervalo de ciclos e comece sua sessão de foco!
+   
 ![3d-rendering-triangle](https://github.com/user-attachments/assets/044f63a6-0116-424b-b296-7b6ebf57ba8d)
 
 ---
