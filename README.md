@@ -99,6 +99,7 @@ Abordagem Ágil vs. Tradicional: O Manifesto Ágil estabelece que o "software fu
 ## 📝 4. Guia de Revisão: Gestão de Produtos e Problemas
 
 **1. Qual é a medida primária de progresso em um projeto que segue os princípios ágeis?** 
+
 a) O cumprimento rigoroso do cronograma inicial.  
 b) A quantidade de documentação técnica produzida.  
 c) Software funcional (produtivo).  
@@ -109,6 +110,7 @@ d) A ausência total de defeitos reportados.
 ---
 
 **2. No framework Scrum, como é chamada a lista priorizada de trabalhos a serem realizados no projeto?** 
+
 a) Diagrama de Gantt.  
 b) Product Backlog.  
 c) Sprint Report.  
@@ -119,6 +121,7 @@ d) Estrutura Analítica de Projeto (EAP).
 ---
 
 **3. O que caracteriza o processo de "Retrabalho" na gestão de problemas de software?** 
+
 a) A criação de novos requisitos para o próximo release.  
 b) O ato de refazer o trabalho devido a mudanças nos requisitos ou falhas detectadas.  
 c) A automação de tarefas repetitivas.  
@@ -129,6 +132,7 @@ d) O treinamento de novos membros da equipe.
 ---
 
 **4. Qual atividade de gerenciamento de configuração foca em decidir se e quando uma mudança deve ser implementada?** 
+
 a) Gerenciamento de versões.  
 b) Construção de sistemas.  
 c) Gerenciamento de mudanças.  
@@ -139,6 +143,7 @@ d) Gerenciamento de releases.
 ---
 
 **5. Por que é difícil alcançar a "Completude" e "Consistência" nos requisitos de grandes sistemas?** 
+
 a) Porque os engenheiros de software não utilizam ferramentas CASE.  
 b) Devido à intangibilidade do software que impede sua visualização.  
 c) Por causa da existência de muitos stakeholders com necessidades diferentes e frequentemente inconsistentes.  
@@ -155,10 +160,10 @@ Como parte do aprendizado prático, desenvolvi um script Python (Tkinter) que ge
 
 <p align="center">
   
-  <img src="![3d-rendering-triangle](https://github.com/user-attachments/assets/044f63a6-0116-424b-b296-7b6ebf57ba8d)" alt="Diagrama do Triângulo de Ferro" width="500">
+  <img src="" alt="Diagrama do Triângulo de Ferro" width="500">
 </p>
 
-
+![3d-rendering-triangle](https://github.com/user-attachments/assets/044f63a6-0116-424b-b296-7b6ebf57ba8d)
 
 ---
 
