@@ -95,8 +95,29 @@ Abordagem Ágil vs. Tradicional: O Manifesto Ágil estabelece que o "software fu
 . Isso diverge das abordagens tradicionais que utilizam inspeções rigorosas e processos de QA independentes para garantir a conformidade com padrões organizacionais e documentais
 
 ---
+## 🤖 4. Prompts Reutilizáveis para Revisão e Estudo
+
+Estes prompts foram desenhados para serem utilizados em IAs (como ChatGPT, Claude ou Kimi) para aprofundar os temas de Engenharia de Software abordados neste laboratório.
+
+### 📚 Para Refinamento Teórico
+> "Atue como um Professor de Engenharia de Software. Com base no SWEBOK, explique a diferença entre **Verificação** e **Validação**, dando um exemplo prático de como cada uma falha em um sistema de pagamentos real."
+
+### 💰 Para Gestão e Negócios (Triângulo de Ferro)
+> "Sou um desenvolvedor 'One-Man Team'. Explique para um cliente leigo, usando a lógica do **Triângulo de Ferro**, por que adicionar 5 novas funcionalidades (escopo) na última semana do projeto vai comprometer inevitavelmente a **Qualidade** ou o **Prazo** da entrega."
+
+### 🛠️ Para Qualidade e Código
+> "Analise o conceito de **Dívida Técnica**. Quais são os 3 principais sinais em um código Python de que a manutenibilidade está sendo sacrificada em prol da velocidade de entrega? Sugira métricas para monitorar isso."
+
+### 📝 Para Metodologias Ágeis
+> "Compare o papel do **Product Owner (PO)** no Scrum com o gerenciamento de requisitos tradicional. Como o PO ajuda a mitigar o risco de construir o 'produto errado' (falha de validação)?"
+
+### 📋 Para Simulação de Entrevistas
+> "Me faça 3 perguntas técnicas de nível pleno sobre **Ciclo de Vida de Software** e **Evolução de Sistemas**. Aguarde minha resposta para cada uma e forneça um feedback baseado no livro do Ian Sommerville."
+
+---
+
 ## 📝 Simulado de Revisão
-## 📝 4. Guia de Revisão: Gestão de Produtos e Problemas
+## 📝 5. Guia de Revisão: Gestão de Produtos e Problemas
 
 **1. Qual é a medida primária de progresso em um projeto que segue os princípios ágeis?** 
 
