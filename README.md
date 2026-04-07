@@ -96,46 +96,55 @@ Abordagem Ágil vs. Tradicional: O Manifesto Ágil estabelece que o "software fu
 
 ---
 ## 📝 Simulado de Revisão
-4. Guia de Revisão: Gestão de Produtos e Problemas
-1. Qual é a medida primária de progresso em um projeto que segue os princípios ágeis? 
-a) O cumprimento rigoroso do cronograma inicial. 
-b) A quantidade de documentação técnica produzida. 
-c) Software funcional (produtivo). 
-d) A ausência total de defeitos reportados.
+## 📝 4. Guia de Revisão: Gestão de Produtos e Problemas
 
-Gabarito: c) Segundo o Manifesto Ágil e as práticas de XP, o software funcional é a única coisa que indica o que realmente foi construído pelas equipes.
+**1. Qual é a medida primária de progresso em um projeto que segue os princípios ágeis?** 
+a) O cumprimento rigoroso do cronograma inicial.  
+b) A quantidade de documentação técnica produzida.  
+c) Software funcional (produtivo).  
+d) A ausência total de defeitos reportados.  
 
-2. No framework Scrum, como é chamada a lista priorizada de trabalhos a serem realizados no projeto? 
-a) Diagrama de Gantt. 
-b) Product Backlog. 
-c) Sprint Report. 
-d) Estrutura Analítica de Projeto (EAP).
+> *Gabarito: **c)** Segundo o Manifesto Ágil e as práticas de XP, o software funcional é a única coisa que indica o que realmente foi construído pelas equipes.*
 
-Gabarito: b) O ponto de partida para o planejamento no Scrum é o backlog do produto, que contém a lista do trabalho a ser feito, revisada com o cliente.
+---
 
-3. O que caracteriza o processo de "Retrabalho" na gestão de problemas de software? 
-a) A criação de novos requisitos para o próximo release. 
-b) O ato de refazer o trabalho devido a mudanças nos requisitos ou falhas detectadas. 
-c) A automação de tarefas repetitivas. 
-d) O treinamento de novos membros da equipe.
+**2. No framework Scrum, como é chamada a lista priorizada de trabalhos a serem realizados no projeto?** 
+a) Diagrama de Gantt.  
+b) Product Backlog.  
+c) Sprint Report.  
+d) Estrutura Analítica de Projeto (EAP).  
 
-Gabarito: b) O retrabalho ocorre quando a mudança aumenta os custos de desenvolvimento, exigindo que partes da análise, projeto ou codificação sejam repetidas.
+> *Gabarito: **b)** O ponto de partida para o planejamento no Scrum é o backlog do produto, que contém a lista do trabalho a ser feito, revisada com o cliente.*
 
-4. Qual atividade de gerenciamento de configuração foca em decidir se e quando uma mudança deve ser implementada? 
-a) Gerenciamento de versões. 
-b) Construção de sistemas. 
-c) Gerenciamento de mudanças. 
-d) Gerenciamento de releases.
+---
 
-Gabarito: c) O gerenciamento de mudanças envolve acompanhar solicitações, definir custos e impactos, e decidir sobre sua implementação.
+**3. O que caracteriza o processo de "Retrabalho" na gestão de problemas de software?** 
+a) A criação de novos requisitos para o próximo release.  
+b) O ato de refazer o trabalho devido a mudanças nos requisitos ou falhas detectadas.  
+c) A automação de tarefas repetitivas.  
+d) O treinamento de novos membros da equipe.  
 
-5. Por que é difícil alcançar a "Completude" e "Consistência" nos requisitos de grandes sistemas? 
-a) Porque os engenheiros de software não utilizam ferramentas CASE. 
-b) Devido à intangibilidade do software que impede sua visualização. 
-c) Por causa da existência de muitos stakeholders com necessidades diferentes e frequentemente inconsistentes. 
-d) Porque as metodologias ágeis proíbem a coleta de requisitos.
+> *Gabarito: **b)** O retrabalho ocorre quando a mudança aumenta os custos de desenvolvimento, exigindo que partes da análise, projeto ou codificação sejam repetidas.*
 
-Gabarito: c) Em sistemas complexos, stakeholders diversos possuem expectativas que podem entrar em conflito, dificultando uma especificação única, completa e sem contradições.
+---
+
+**4. Qual atividade de gerenciamento de configuração foca em decidir se e quando uma mudança deve ser implementada?** 
+a) Gerenciamento de versões.  
+b) Construção de sistemas.  
+c) Gerenciamento de mudanças.  
+d) Gerenciamento de releases.  
+
+> *Gabarito: **c)** O gerenciamento de mudanças envolve acompanhar solicitações, definir custos e impactos, e decidir sobre sua implementação.*
+
+---
+
+**5. Por que é difícil alcançar a "Completude" e "Consistência" nos requisitos de grandes sistemas?** 
+a) Porque os engenheiros de software não utilizam ferramentas CASE.  
+b) Devido à intangibilidade do software que impede sua visualização.  
+c) Por causa da existência de muitos stakeholders com necessidades diferentes e frequentemente inconsistentes.  
+d) Porque as metodologias ágeis proíbem a coleta de requisitos.  
+
+> *Gabarito: **c)** Em sistemas complexos, stakeholders diversos possuem expectativas que podem entrar em conflito, dificultando uma especificação única, completa e sem contradições.*
 
 
 ## 🛠️ Ferramenta de Apoio: Timer de Ciclos em Python
@@ -145,9 +154,10 @@ Como parte do aprendizado prático, desenvolvi um script Python (Tkinter) que ge
 * Interface com ponteiros analógicos para foco visual.
 
 <p align="center">
-  ![3d-rendering-triangle])
-  <img src="(https://github.com/user-attachments/assets/0265729a-fca0-4d46-a807-b68fe90bf3da" alt="Diagrama do Triângulo de Ferro" width="500">
+  
+  <img src="![3d-rendering-triangle](https://github.com/user-attachments/assets/044f63a6-0116-424b-b296-7b6ebf57ba8d)" alt="Diagrama do Triângulo de Ferro" width="500">
 </p>
+
 
 
 ---
